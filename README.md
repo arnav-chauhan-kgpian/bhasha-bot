@@ -1,8 +1,8 @@
-# Bhasha-Bot
+# bhasha-bot
 
 **English-to-Hindi Neural Machine Translation (Transformer)**
 
-Bhasha-Bot is a **Transformer-based Neural Machine Translation (NMT) model** implemented from scratch in PyTorch. It translates English sentences into Hindi.
+bhasha-bot is a **Transformer-based Neural Machine Translation (NMT) model** implemented from scratch in PyTorch. It translates English sentences into Hindi.
 
 I created this project for fun while revisiting a seminal paper on transformers (see Credits) as a prerequisite to my exploration of the mystical world of mechanistic interpretability.
 
